@@ -1,6 +1,6 @@
 Hello,
 
-I built from sources (provided by HighTec to avoid GPL violations here https://www.hightec-rt.com/en/downloads/sources.html) the bintutils 2.13 package targetting the tricore architecture with host Windows under x86 (686) platforms. Sources files are provided on this repository if needed (in case where the URL link will not be available).
+I built from sources (provided by HighTec to avoid GPL violations here https://www.hightec-rt.com/en/downloads/sources.html) the binutils 2.13 package targetting the tricore architecture with host Windows under x86 (686) platforms. Sources files are provided on this repository if needed (in case where the URL link will be not available).
 
 As the tricore arch is not an official branch of gcc/binutils, there is no package found with free of charge…. So I prefer to build it as Hightec made sources available.
 
